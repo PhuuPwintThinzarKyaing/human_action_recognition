@@ -1,0 +1,7 @@
+streamlit
+numpy
+keras
+tensorflow
+mediapipe
+streamlit_webrtc
+scikit-learn
